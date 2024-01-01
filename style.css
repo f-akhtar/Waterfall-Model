@@ -233,7 +233,8 @@ width: 100%;
 .layer {
     width: 100%;
     height: 0;
-    background: #21B291;
+    /* background: #21B291; */
+    background: linear-gradient(rgb(0,0,0,0.6), #21B291);
     border-radius: 10px;
     position: absolute;
     left: 0;
